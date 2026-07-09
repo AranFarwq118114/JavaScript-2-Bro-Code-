@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python Debugger: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Debug Lesson (Edge)",
+      "file": "${fileDirname}/Index.html"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Debug Lesson (Chrome)",
+      "file": "${fileDirname}/Index.html"
+    }
+  ]
+}
