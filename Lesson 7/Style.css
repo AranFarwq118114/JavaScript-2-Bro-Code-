@@ -1,0 +1,18 @@
+#counterlabel{
+    align-items: center;
+}
+
+.btnscontainer{
+    align-items: center;
+    margin: 0 auto;
+}
+
+.btn{
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+    border: 2.5px solid #000;
+    border-radius: 10px;
+    color: aqua;
+    font-size: 20px;
+    background-color: #fff;
+}

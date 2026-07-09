@@ -1,0 +1,7 @@
+Math
+let x = 5;
+const a = 12;
+var e = 3;
+.innerHTML
+.textconetext
+.evenlistener
